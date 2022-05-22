@@ -1,0 +1,23 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+    
+}
+
+button{
+    text-align: center;
+    border-style:90px;
+    font-size: 80px;
+    box-shadow: 12px;
+    
+}
+
+p{
+  font-size: 90px;
+  color:brown;
+}
+
+h1{
+    font-size:50px;
+    color: rebeccapurple;
+}
